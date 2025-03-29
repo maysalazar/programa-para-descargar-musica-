@@ -10,4 +10,4 @@ Tecnologías Utilizadas
 •	pytube: Biblioteca utilizada para la descarga de videos y extracción de audio.
 •	ffmpeg: Herramienta para la conversión de archivos a formato MP3.
 Conclusión
-Este proyecto es una aplicación práctica del uso de bibliotecas en Python para la automatización de descargas y procesamiento de archivos multimedia. Nos permite comprender mejor el manejo de APIs, conversión de formatos y optimización de flujos de trabajo en desarrollo de software. Además, sirve como una base para futuras mejoras, como la creación de una interfaz gráfica o la integración con servicios de streaming.
+Este proyecto es una aplicación práctica del uso de bibliotecas en Python para la automatización de descargas y procesamiento de archivos multimedia. Nos permite comprender mejor el manejo de APIs, conversión de formatos y optimización de flujos de trabajo en desarrollo de software. Además, sirve como una base para futuras mejoras, como la creación de una interfaz gráfica o la integración con servicios de streaming..
